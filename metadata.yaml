@@ -1,0 +1,39 @@
+_repo: The-poems-of-Heine-Complete-Translated-into-the-original-metres-with-a-sketch-of-his-life_52882
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bowring, Edgar Alfred
+    aliases:
+    - Bowring, Edward Alfred
+    - Bowring, E. A. (Edgar Alfred)
+    birthdate: 1826
+    deathdate: 1911
+    gutenberg_agent_id: '587'
+    url: http://www.gutenberg.org/2009/agents/587
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Alfred_Bowring
+creator:
+  author:
+    agent_name: Heine, Heinrich
+    alias: Heine, H. (Heinrich)
+    birthdate: 1797
+    deathdate: 1856
+    gutenberg_agent_id: '1049'
+    url: http://www.gutenberg.org/2009/agents/1049
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Heine
+description: ''
+gutenberg_issued: '2016-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- Translations into English'
+- !lcsh 'Heine, Heinrich, 1797-1856 -- Translations into English'
+- GITenberg
+title: "The poems of Heine; Complete\r\nTranslated into the original metres; with\
+  \ a sketch of his life"
+url: http://www.gutenberg.org/ebooks/52882
