@@ -1,5 +1,5 @@
 _repo: The-poems-of-Heine-Complete-Translated-into-the-original-metres-with-a-sketch-of-his-life_52882
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Bowring, Edgar Alfred
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '587'
     url: http://www.gutenberg.org/2009/agents/587
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Alfred_Bowring
+covers:
+- cover_type: archival
+  image_path: 52882-h/images/cover.jpg
 creator:
   author:
     agent_name: Heine, Heinrich
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1049
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_Heine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52882#The-poems-of-Heine-Complete-Translated-into-the-original-metres-with-a-sketch-of-his-life
 gutenberg_issued: '2016-08-23'
 gutenberg_type: Text
 identifiers:
